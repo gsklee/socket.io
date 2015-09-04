@@ -23,7 +23,7 @@
   "dependencies": {
     "engine.io": "gsklee/engine.io",
     "socket.io-parser": "2.2.4",
-    "socket.io-client": "automattic/socket.io-client#bf98153",
+    "socket.io-client": "gsklee/socket.io-client",
     "socket.io-adapter": "automattic/socket.io-adapter#de5cba",
     "has-binary": "0.1.6",
     "debug": "2.1.3"
